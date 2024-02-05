@@ -3,7 +3,7 @@
 This is a _simple introduction_ highlighting the _key aspects_ of this language. Full details can be found at the online [JSONata documentation](https://docs.jsonata.org/overview)
 
 **JSONata** code can be written as either a _single line expression_, or as multiple line expressions in a _code block_ `( )`.
-Expressions are evaluated against a \_JSON object. In Node-RED this object is the node input message.
+Expressions are evaluated against a _JSON object_. In Node-RED this object is the node input message.
 
 A single line expression is evaluated left to right _by operator_, and the result returned is the final evaluation.
 
